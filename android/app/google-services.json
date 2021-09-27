@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136699077032",
+    "project_id": "dart-week-app-movies",
+    "storage_bucket": "dart-week-app-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136699077032:android:8f054f354319858a843d9d",
+        "android_client_info": {
+          "package_name": "br.com.academiaflutter.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136699077032-bj7f7en6aadasrf531n73cn25vg9bm84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiaflutter.app_filmes",
+            "certificate_hash": "b87e857d4c08745705e529367bba9a0ca680c65a"
+          }
+        },
+        {
+          "client_id": "136699077032-mvdpusu8pjb9qha30qalc8ur37aeigqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SgwomeQJ4EvUCEJ25GQkc_QKUsGDTrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136699077032-mvdpusu8pjb9qha30qalc8ur37aeigqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
