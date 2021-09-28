@@ -38,7 +38,7 @@ class LoginPage extends GetView<LoginController> {
                   onPressed: () => controller.login(),
                   text: 'Entrar com o Google',
                 ),
-              )
+              ),
             ],
           )),
     ]));
