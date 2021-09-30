@@ -29,12 +29,12 @@ class LoginController extends GetxController with LoaderMixin, MessagesMixin {
     } catch (e, s) {
       print('ERROOO AQUIII!!!!');
       print(e);
-      print('ERROOO AQUIII NOVAMENTE!!!!');
       print(s);
+      print('ERROOO AQUIII NOVAMENTE!!!!');
       loading(false);
 
       message(MessageModel.error(
-          title: 'Login Error', message: 'Erro ao realizar o Login'));
+          title: 'Login Error', message: 'Erro ao realizar o Login,  $e'));
     }
   }
 }
