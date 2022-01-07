@@ -17,6 +17,8 @@ class GenresRepositoryImpl implements GenresRepository {
           'api_key': RemoteConfig.instance.getString('api_token'),
           'language': 'pt-br'
         }, decoder: (data) {
+      print('Teste ===> $data');
+
       final resultData = data['genres'];
       if (resultData != null) {
         return resultData
@@ -27,7 +29,7 @@ class GenresRepositoryImpl implements GenresRepository {
     });
 
     if (result.hasError) {
-      print('Erro ao buscar Genres [${result.statusText}]');
+      // print('Erro ao buscar Genres [${result.statusText}]');
       print(result.statusText);
       throw Exception('Erro ao buscar Genres');
     }
