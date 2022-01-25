@@ -45,7 +45,7 @@ class MovieDetailModel {
             ?.map<String>(
                 (i) => 'https://image.tmdb.org/t/p/w200${i['file_path']}')
             .toList() ??
-        const [];
+        [];
 
     return MovieDetailModel(
       title: map['title'] ?? '',
