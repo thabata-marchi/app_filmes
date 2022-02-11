@@ -67,6 +67,14 @@
           }
         },
         {
+          "client_id": "136699077032-50uvo6dkbnrlh90je2begqcfbckfnjoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.indicates.movie.thabata.marchi",
+            "certificate_hash": "ee20b86f732a8ee319822d01913dba4efec380f4"
+          }
+        },
+        {
           "client_id": "136699077032-ib0he5d64ppd6bhv374jlvoa5qmlvqtr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
