@@ -49,6 +49,59 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136699077032:android:583b871faf2ebe94843d9d",
+        "android_client_info": {
+          "package_name": "br.com.indicates.movie.thabata.marchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136699077032-0tn20h7o14sh5lf915t43totubg7gmsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.indicates.movie.thabata.marchi",
+            "certificate_hash": "b87e857d4c08745705e529367bba9a0ca680c65a"
+          }
+        },
+        {
+          "client_id": "136699077032-ib0he5d64ppd6bhv374jlvoa5qmlvqtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.indicates.movie.thabata.marchi",
+            "certificate_hash": "5b0bac9d48a24e8b2ef35fc725e3a3fadb0b41c7"
+          }
+        },
+        {
+          "client_id": "136699077032-oq8ia6094p4pet00gb5mbjom2tjct83c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.indicates.movie.thabata.marchi",
+            "certificate_hash": "3108234e9b4e18cd136322136303ca399eb8207a"
+          }
+        },
+        {
+          "client_id": "136699077032-mvdpusu8pjb9qha30qalc8ur37aeigqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SgwomeQJ4EvUCEJ25GQkc_QKUsGDTrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136699077032-mvdpusu8pjb9qha30qalc8ur37aeigqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
